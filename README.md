@@ -13,3 +13,4 @@ Although I am still a beginner, I am very enthusiastic and eager to continue lea
 * [Reinforcement Learning: --- ](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/flight/FLIGHT.ipynb):
 * [Deep Learning: --- ](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/flight/FLIGHT.ipynb):
 ## Natural Language Processing (NLP)
+## Computer Vision
