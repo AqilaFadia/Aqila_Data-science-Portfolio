@@ -1,0 +1,23 @@
+How to Predict Customer Churn in a Telecommunications Company
+
+
+* state: the state where the customer is located
+* account_length: the number of days since the customer joined the service provider
+* area_code: area code of the customer's phone
+* international_plan: does the customer have an international service plan (yes/no)
+* voice_mail_plan: does the customer have a voicemail service plan (yes/no)
+* number_vmail_messages: the number of voicemail messages received by the subscriber
+* total_day_minutes: number of minutes used by the customer during business hours (in minutes)
+* total_day_calls: number of calls made by the customer during business hours
+* total_day_charge: the fee charged to the customer for usage during business hours
+* total_eve_minutes: the number of minutes the customer used during the night hours (in minutes)
+* total_eve_calls: number of calls made by the customer during night hours
+* total_eve_charge: the fee charged to the customer for use during night hours
+* total_night_minutes: the number of minutes the customer spends sleeping hours (in minutes)
+* total_night_calls: number of calls made by the customer during sleeping hours
+* total_night_charge: the fee charged to the customer for usage during sleeping hours
+* total_intl_minutes: number of minutes used by the customer for international calls (in minutes)
+* total_intl_calls: number of calls made by the customer for international calls
+* total_intl_charge: the fee charged to the customer for international calls
+* number_customer_service_calls: the number of calls made by the customer to the customer service center
+* churn: target variable indicating whether the customer switches services (yes/no)
