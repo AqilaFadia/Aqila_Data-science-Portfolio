@@ -8,4 +8,4 @@ Here, you will find projects that I have worked on during my learning process. I
 Although I am still a beginner, I am very enthusiastic and eager to continue learning and improving my skills in data science. I hope that my GitHub portfolio can demonstrate my current abilities and show my progress in the future.
 
 ## Machine Learning Portofolio
-[![Default Payment](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+* [Supervised Learning : How to Predict Customer Churn in a Telecommunications Company ](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/predict%20customer%20churn%20Telco/how_to_predict_customer_churn.ipynb): Telecommunications companies face an increasing risk of customer churn due to increasingly fierce competition between providers. This can result in reduced company revenue. Therefore an effective strategy is needed to reduce the churn rate and retain customers.
