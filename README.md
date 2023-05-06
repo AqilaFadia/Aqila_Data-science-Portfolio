@@ -14,3 +14,4 @@ Although I am still a beginner, I am very enthusiastic and eager to continue lea
 ## Natural Language Processing (NLP)
 ## Computer Vision
 * [Classification of Skin Cancer](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/classification%20of%20skin%20cancer/classification_of_skin_cancer_.ipynb): Create a skin cancer classification model using Tensorflow. A skin cancer classification model using Tensorflow is being developed to recognize skin images showing signs of skin cancer. Building this model requires an expert team of data scientists, healthcare professionals, and developers to ensure its safety and correctness.
+## Time Series
