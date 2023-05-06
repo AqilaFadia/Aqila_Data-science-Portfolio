@@ -12,6 +12,7 @@ Although I am still a beginner, I am very enthusiastic and eager to continue lea
 * [Unsupervised Learning : Clustering Customer Airline Company ](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/flight/FLIGHT.ipynb): Develop clustering models to group customers based on common characteristics, with the aim of providing valuable information for companies in optimizing their business strategies, such as marketing, customer retention, and developing better products and services. By helping companies make more informed and accurate decisions.
 * [Reinforcement Learning: --- ](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/flight/FLIGHT.ipynb):
 ## Natural Language Processing (NLP)
+* [Clothing Reviews Neural Network Model with TensorFlow: --- ](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/flight/FLIGHT.ipynb):
 ## Computer Vision
 * [Classification of Skin Cancer](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/classification%20of%20skin%20cancer/classification_of_skin_cancer_.ipynb): Create a skin cancer classification model using Tensorflow. A skin cancer classification model using Tensorflow is being developed to recognize skin images showing signs of skin cancer. Building this model requires an expert team of data scientists, healthcare professionals, and developers to ensure its safety and correctness.
 ## Time Series
