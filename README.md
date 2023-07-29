@@ -19,5 +19,5 @@ I am very enthusiastic and eager to continue learning and improving my skills in
 
 
 ## More Portfolio
-* [Predict Customer Personality to boost marketing campaign by using Machine Learning](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/Time%20series%20saham/An_Analysis_of_Stock_Prices.ipynb): Processes historical marketing campaign data to improve performance and target the right customers to transact on enterprise platforms using Machine Learning.
+* [Predict Customer Personality to boost marketing campaign by using Machine Learning](https://github.com/AqilaFadia/Aqila_Data-science-Portfolio/blob/main/Predict_Customer_Personality_to_boost_marketing_campaign_by_using_Machine_Learning.ipynb): Processes historical marketing campaign data to improve performance and target the right customers to transact on enterprise platforms using Machine Learning.
 * 
