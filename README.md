@@ -16,3 +16,8 @@ I am very enthusiastic and eager to continue learning and improving my skills in
 * [Classification of Skin Cancer](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/classification%20of%20skin%20cancer/classification_of_skin_cancer_.ipynb): Create a skin cancer classification model using Tensorflow. A skin cancer classification model using Tensorflow is being developed to recognize skin images showing signs of skin cancer. Building this model requires an expert team of data scientists, healthcare professionals, and developers to ensure its safety and correctness.
 ## Time Series
 * [An Analysis of Stock Prices](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/Time%20series%20saham/An_Analysis_of_Stock_Prices.ipynb): This analysis is conducted to see stock price trends, predict future stock prices, or to look for factors that influence stock price movements. In this analysis, time series analysis methods are used. The ultimate goal of this analysis is to provide useful insights for investors in making investment decisions.
+
+
+## More Portfolio
+* [Predict Customer Personality to boost marketing campaign by using Machine Learning](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/Time%20series%20saham/An_Analysis_of_Stock_Prices.ipynb): Processes historical marketing campaign data to improve performance and target the right customers to transact on enterprise platforms using Machine Learning.
+* 
