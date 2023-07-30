@@ -3,8 +3,6 @@ Welcome to my GitHub portfolio!
 
 I have completed several online courses and tutorials on data processing techniques and data analysis. In addition, I have practiced my learning in several small projects and demonstrated my ability to use various tools and technologies in data processing and analysis.
 
-I am very enthusiastic and eager to continue learning and improving my skills in data science. I hope that my GitHub portfolio can demonstrate my current abilities and show my progress in the future.
-
 ## Machine Learning Portfolio
 * [Payment Default Prediction](https://github.com/FluffyArc/DefaultPayment/blob/main/Final_Project_Kelompok_8.ipynb): Develop predictive models that can be used to identify customers who are at risk of cancellation of payments and help companies take appropriate countermeasures.
 * [Supervised Learning: How to Predict Customer Churn in a Telecommunications Company ](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/predict%20customer%20churn%20Telco/how_to_predict_customer_churn.ipynb): Create a model to predict customer churn in Telecommunications Companies to deal with competition between providers which causes a reduction in company revenue.
