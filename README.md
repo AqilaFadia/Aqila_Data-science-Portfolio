@@ -17,8 +17,7 @@ I have completed several online courses and tutorials on data processing techniq
   
 ## More Portfolio
 * [Predict Customer Personality to boost marketing campaign by using Machine Learning](https://github.com/AqilaFadia/Aqila_Data-science-Portfolio/blob/main/Predict_Customer_Personality_to_boost_marketing_campaign_by_using_Machine_Learning.ipynb): Processes historical marketing campaign data to improve performance and target the right customers to transact on enterprise platforms using Machine Learning. For more Visit on:[ Article link](https://medium.com/@aqilafadiamariana/predict-customer-personality-to-boost-marketing-campaign-by-using-machine-learning-79368c2dc87d)
-
-  ![b6](https://github.com/AqilaFadia/Aqila_Data-science-Portfolio/assets/123156703/003d1500-435b-4b10-9d26-9fb5b7fe3281)
+![b6](https://github.com/AqilaFadia/Aqila_Data-science-Portfolio/assets/123156703/003d1500-435b-4b10-9d26-9fb5b7fe3281)
 
 * [Predict Customer Clicked Ads Classification by Using Machine Learning](https://github.com/AqilaFadia/Aqila_Data-science-Portfolio/blob/main/Predict%20Customer%20Clicked%20Ads%20Classification%20by%20Using%20Machine%20Learning.ipynb): Knowing the effectiveness of an advertisement that they display, for companies engaged in digital marketing consulting to find out how much the advertisement has been marketed so that it can attract customers to see the advertisement.
   
