@@ -16,11 +16,9 @@ I have completed several online courses and tutorials on data processing techniq
 * [An Analysis of Stock Prices](https://github.com/AqilaFadia/Aqila_Data-science-Portofolio/blob/main/Time%20series%20saham/An_Analysis_of_Stock_Prices.ipynb): This analysis is conducted to see stock price trends, predict future stock prices, or to look for factors that influence stock price movements. In this analysis, time series analysis methods are used. The ultimate goal of this analysis is to provide useful insights for investors in making investment decisions.
   
 ## More Portfolio
-* [Predict Customer Personality to boost marketing campaign by using Machine Learning](https://github.com/AqilaFadia/Aqila_Data-science-Portfolio/blob/main/Predict_Customer_Personality_to_boost_marketing_campaign_by_using_Machine_Learning.ipynb): Processes historical marketing campaign data to improve performance and target the right customers to transact on enterprise platforms using Machine Learning. For more Visit on: [ Article link](https://medium.com/@aqilafadiamariana/predict-customer-personality-to-boost-marketing-campaign-by-using-machine-learning-79368c2dc87d)
-  <img src=![b6](https://github.com/AqilaFadia/Aqila_Data-science-Portfolio/assets/123156703/003d1500-435b-4b10-9d26-9fb5b7fe3281)
- alt="Deskripsi gambar" style="max-width: 15%;">
-![b6](https://github.com/AqilaFadia/Aqila_Data-science-Portfolio/assets/123156703/003d1500-435b-4b10-9d26-9fb5b7fe3281)
+* [Predict Customer Personality to boost marketing campaign by using Machine Learning](https://github.com/AqilaFadia/Aqila_Data-science-Portfolio/blob/main/Predict_Customer_Personality_to_boost_marketing_campaign_by_using_Machine_Learning.ipynb): Processes historical marketing campaign data to improve performance and target the right customers to transact on enterprise platforms using Machine Learning. For more Visit on:[ Article link](https://medium.com/@aqilafadiamariana/predict-customer-personality-to-boost-marketing-campaign-by-using-machine-learning-79368c2dc87d)
 
+  ![b6](https://github.com/AqilaFadia/Aqila_Data-science-Portfolio/assets/123156703/003d1500-435b-4b10-9d26-9fb5b7fe3281)
 
 * [Predict Customer Clicked Ads Classification by Using Machine Learning](https://github.com/AqilaFadia/Aqila_Data-science-Portfolio/blob/main/Predict%20Customer%20Clicked%20Ads%20Classification%20by%20Using%20Machine%20Learning.ipynb): Knowing the effectiveness of an advertisement that they display, for companies engaged in digital marketing consulting to find out how much the advertisement has been marketed so that it can attract customers to see the advertisement.
   
